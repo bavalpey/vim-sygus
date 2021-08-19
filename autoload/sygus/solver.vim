@@ -1,4 +1,6 @@
 " Code adapted mostly verbatim from https://github.com/bohlender/vim-smt2/blob/2cc8c80c0a88e0d47de85bef1d50df86e197c302/autoload/smt2/solver.vim
+" Original code published under MIT license (copyright line below)
+" Copyright (c) 2017 Dimitri Bohlender
 
 " ------------------------------------------------------------------------------
 " Config
